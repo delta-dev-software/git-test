@@ -1,1 +1,4 @@
-app: hello world
+order:
+  service:
+    welcomeMessage: "Welcome to the Order Service!"
+
